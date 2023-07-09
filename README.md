@@ -1,6 +1,6 @@
 # ERC-6551 using thirdweb
 
-![Main Image]()
+![Main Image](https://github.com/PriyathamVarma/thirdweb_erc6551/blob/main/ERC%206551.jpeg)
 
 ## Introduction
 
