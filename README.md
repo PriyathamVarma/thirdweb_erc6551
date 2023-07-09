@@ -1,5 +1,7 @@
 # ERC-6551 using thirdweb
 
+![Main Image]()
+
 ## Introduction
 
 The ERC-721 standard enabled an explosion of non-fungible token applications. Some notable use cases have included breedable cats, generative artwork, and liquidity positions.
