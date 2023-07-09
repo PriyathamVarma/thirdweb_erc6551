@@ -26,6 +26,33 @@ Each token bound account is owned by a single ERC-721 token, allowing the token 
 
 Token bound accounts are compatible out of the box with nearly all existing infrastructure that supports Ethereum accounts, from on-chain protocols to off-chain indexers. Token bound accounts can own any type of on-chain asset, and can be extended to support new asset types created in the future.
 
+## Implementation
+
+Step 1: Create a new ERC-721 token contract
+
+> Go to thirdweb dashboard and create a new ERC-721 token contract.
+>
+> > Deploy it and claim it.
+
+Step 2: Create a new ERC-20 token contract
+
+> Go to thirdweb dashboard and create a new ERC-20 token contract.
+>
+> > Deploy it and claim it.
+
+Step 3: Create a new ERC-1155 token contract
+
+> Go to thirdweb dashboard and create a new ERC-1155 token contract.
+>
+> > Deploy it and claim it.
+
+Step 4:
+
 ## Important Resources
 
 1. [Official ERC-6551 Link](https://eips.ethereum.org/EIPS/eip-6551)
+2. [ERC-721 Contract Deployed on POLYGON](https://polygonscan.com/token/0x66541a7f644fb5de5931a4df3108bde80814004a)
+3. [ERC-1155 Contract Deployed on POLYGON](https://polygonscan.com/address/0x1D617189fe0389A658ea730E32069071C488dDb7)
+4. [ERC-20 Contract Deployed on POLYGON](https://polygonscan.com/address/0x6610BCcbF1087260545E7741924dc9713610A366)
+5. [Token Bound Account Template](https://thirdweb.com/0x7fDae677aA6f94Edff9872C4b91D26407709c790/TokenBoundAccount)
+6. [Deployed Token Bound Account Contract](https://mumbai.polygonscan.com/address/0x7943ACAE90F3d19deCE41Ecf7B667e1a1Ce08aC0)
